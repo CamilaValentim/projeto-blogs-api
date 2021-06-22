@@ -1,0 +1,21 @@
+{
+    "caracterName": "\"displayName\" length must be at least 8 characters long",
+    "valideEmail": "\"email\" must be a valid email",
+    "EmailObrigatorio": "\"email\" is required",
+    "caracterPassword": "\"password\" length must be 6 characters long",
+    "passwordObrigatoria": "\"password\" is required",
+    "existEmail": "User already registered",
+    "emailwhite" : "\"email\" is not allowed to be empty",
+    "passwordWhite" : "\"password\" is not allowed to be empty",
+    "existuser": "Invalid fields",
+    "nameobrigatorio": "\"name\" is required",
+    "tokenInvalido": "Expired or invalid token",
+    "notToken": "Token not found",
+    "titleObrigatorio": "\"title\" is required",
+    "contentObrigatorio": "\"content\" is required",
+    "categoryIdObrigatorio": "\"categoryIds\" is required",
+    "notCategoryIds": "\"categoryIds\" not found",
+    "blogPostNotexist": "Post does not exist",
+    "updateCategoy" : "Categories cannot be edited",
+    "updateUserCategory": "Unauthorized user"
+}
